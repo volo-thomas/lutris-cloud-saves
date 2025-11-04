@@ -2,6 +2,7 @@
 Script to syncronize save files with cloud storage
 
 Usage:
+
 SAVEDIR="path/to/local/saves/" REMOTEDIR="path/to/remote/saves/" cloudsaves.sh
 
 Set Up Instructions:
