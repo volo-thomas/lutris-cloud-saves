@@ -15,4 +15,6 @@ Add the script to Pre-launch and Post-exist script
 
 Check "Wait for pre-launch script completion" option on
 
+<img width="841" height="823" alt="image" src="https://github.com/user-attachments/assets/5241a968-c898-43b2-85b8-4e18e134dbae" />
+
 The script can also be run from cli with the same environment variables set
